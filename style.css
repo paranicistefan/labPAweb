@@ -1,0 +1,13 @@
+* {
+  background-color: #495371;
+  color: #f1e0ac;
+  font-family: "Roboto", sans-serif;
+}
+.carImage {
+  width: 40%;
+  border-radius: 50%;
+  display: block;
+}
+li {
+  list-style-image: url(./assets/bullet-list-icon.jpg);
+}
